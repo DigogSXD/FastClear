@@ -2,6 +2,9 @@
 
 **CleannigMaster** é um software de otimização de PC 🖥️ projetado para melhorar o desempenho do seu computador, limpando arquivos desnecessários 🗑️, corrigindo erros no sistema 🛠️ e melhorando a eficiência geral do sistema operacional. Com uma interface simples e fácil de usar, CleannigMaster oferece diversas ferramentas para manter seu PC rápido ⚡ e livre de arquivos indesejados.
 
+## Figma
+https://www.figma.com/design/KLI9nybHxYlvPbBc0saWCo/CleannigMaster?t=2CAiSe6FgDrOCE4i-1
+
 ## Funcionalidades 🌟
 
 ### 1. **Limpeza de Arquivos Temporários** 🧹
