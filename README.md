@@ -66,3 +66,13 @@ Depois de instalado, abra o CleannigMaster e comece a otimizar o seu PC!
 ---
 
 Agradecemos por usar o CleannigMaster! Otimize seu PC e experimente um desempenho mais rápido e eficiente! 🚀
+
+
+## Equipe do Projeto
+
+| nome | foto |
+| -------- | -------- | -------- |
+| Diogo Borges |<img src="https://github.com/digogsxd.png" height="75" width="75"> |
+| gustaallves | <img src="https://github.com/gustaallves.png" height="75" width="75"> |
+| Gustavo Cunha Lacerda | <img src="https://github.com/GustavoCunhaLacerda.png" height="75" width="75"> |
+
