@@ -5,7 +5,7 @@
 ## Figma
 
 
-- [VsCode](https://www.figma.com/design/KLI9nybHxYlvPbBc0saWCo/CleannigMaster?t=2CAiSe6FgDrOCE4i-1)
+- [Figma](https://www.figma.com/design/KLI9nybHxYlvPbBc0saWCo/CleannigMaster?t=2CAiSe6FgDrOCE4i-1)
 
 ## Funcionalidades 🌟
 
