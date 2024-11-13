@@ -59,23 +59,6 @@ Depois de instalado, abra o CleannigMaster e comece a otimizar o seu PC!
 4. **Correção de Erros no Registro**: Na seção "Registro", inicie a verificação para corrigir entradas inválidas.
 5. **Monitoramento de Sistema**: Acompanhe o desempenho do seu PC na aba "Monitoramento", onde você pode ver o uso de recursos em tempo real.
 
-## Contribuindo 💡
-
-Se você quiser contribuir para o CleannigMaster, siga estas etapas:
-
-1. Faça um fork deste repositório.
-2. Crie uma nova branch (`git checkout -b feature-nome-da-sua-feature`).
-3. Faça suas modificações e adicione um commit (`git commit -am 'Adiciona nova funcionalidade'`).
-4. Envie para o repositório remoto (`git push origin feature-nome-da-sua-feature`).
-5. Crie uma pull request.
-
-## Licença 📜
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## Contato 📧
-
-Se você tiver dúvidas ou sugestões, sinta-se à vontade para abrir uma issue ou entrar em contato com os desenvolvedores do CleannigMaster.
 
 ---
 
